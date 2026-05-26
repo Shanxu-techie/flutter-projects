@@ -18,5 +18,5 @@ A collection of Flutter mobile apps built with Dart during learning and developm
 ## Built With
 - Flutter
 - Dart
-- REST APIs
+- Supabase
 - Provider (state management)
